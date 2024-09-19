@@ -2,8 +2,8 @@
 title: "Agile tour Lyon 2022 - Vers une euphorie sans fin"
 summary: "Retour d'expérience sur la création d'une équipe Produit au sein d'une entreprise historiquement organisée pour réaliser des projets."
 description: "Retour d'expérience sur la création d'une équipe Produit au sein d'une entreprise historiquement organisée pour réaliser des projets."
-categories: ["talks"]
-tags: ["content", "agile", "rex"]
+categories: ["conferences"]
+tags: ["contenu", "agile", "rex"]
 # externalUrl: "https://nunocoracao.com/posts/202310-blowfish-tutorial/"
 date: 2022-06-11
 draft: false

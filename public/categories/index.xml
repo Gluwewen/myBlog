@@ -21,11 +21,11 @@
     </item>
     
     <item>
-      <title>Talks</title>
-      <link>http://localhost:1313/categories/talks/</link>
+      <title>Conferences</title>
+      <link>http://localhost:1313/categories/conferences/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>http://localhost:1313/categories/talks/</guid>
+      <guid>http://localhost:1313/categories/conferences/</guid>
       <description></description>
       
     </item>

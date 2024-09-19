@@ -3,7 +3,7 @@ title: "Agile tour Lausanne 2022 - Who said we lacked energy?"
 summary: "Lessons learned on the bottom-up approach implemented to initiate the transition from a project-oriented to a product-oriented organisation."
 description: "Feedback on the bottom-up approach implemented to initiate the transition from a project-oriented to a product-oriented organisation."
 categories: ["talks"]
-tags: ["content", "agile", "lessons learned"]
+tags: ["agile", "lessons learned"]
 # externalUrl: "https://nunocoracao.com/posts/202310-blowfish-tutorial/"
 date: 2022-12-09
 draft: false

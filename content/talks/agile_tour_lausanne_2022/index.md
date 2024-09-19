@@ -2,8 +2,8 @@
 title: "Agile tour Lausanne 2022 - Qui a dit qu'on manquait d'énergie ?"
 summary: "Retour d'expérience sur l’approche « bottom-up » mise en oeuvre pour initier le passage d’une organisation orientée projet à une organisation orientée produit."
 description: "Retour d'expérience sur l’approche « bottom-up » mise en oeuvre pour initier le passage d’une organisation orientée projet à une organisation orientée produit."
-categories: ["talks"]
-tags: ["content", "agile", "rex"]
+categories: ["conferences"]
+tags: ["agile", "rex"]
 # externalUrl: "https://nunocoracao.com/posts/202310-blowfish-tutorial/"
 date: 2022-12-09
 draft: false
