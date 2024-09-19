@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences on Sustainable IT mind</title>
+    <link>//localhost:1313/conferences/</link>
+    <description>Recent content in Conferences on Sustainable IT mind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>vince.loiseau@icloud.com (Vincent Loiseau)</managingEditor>
+    <webMaster>vince.loiseau@icloud.com (Vincent Loiseau)</webMaster>
+    <copyright>© 2024 Vincent Loiseau</copyright>
+    <atom:link href="//localhost:1313/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos de moi</title>
+      <link>//localhost:1313/conferences/agile_tour_lyon_2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
+      <guid>//localhost:1313/conferences/agile_tour_lyon_2022/</guid>
+      <description>Coach Agile, spécialiste en gestion de produit digital, fervant défenseur du développement durable.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/conferences/agile_tour_lyon_2022/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+name: blog
+
+services:
+  server:
+    image: hugomods/hugo:std-base-0.134.0
+    command: hugo server --bind 0.0.0.0
+    volumes:
+      - $PWD:/src
+    ports:
+      - 8080:1313
