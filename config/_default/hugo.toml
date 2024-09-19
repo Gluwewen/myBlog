@@ -4,7 +4,7 @@
 
 theme = "blowfish" # UNCOMMENT THIS LINE
 # baseURL = "https://your_domain.com/"
-baseURL = "https://gluwewen.myblog.github.io/"
+baseURL = "https://gluwewen.github.io/"
 defaultContentLanguage = "fr"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
