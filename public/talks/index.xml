@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conférences on Sustainable IT mind</title>
-    <link>http://localhost:1313/talks/</link>
+    <link>https://gluwewen.myblog.github.io/talks/</link>
     <description>Recent content in Conférences on Sustainable IT mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>vince.loiseau@icloud.com (Vincent Loiseau)</managingEditor>
     <webMaster>vince.loiseau@icloud.com (Vincent Loiseau)</webMaster>
     <copyright>© 2024 Vincent Loiseau</copyright>
-    <lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gluwewen.myblog.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agile tour Lausanne 2022 - Qui a dit qu&#39;on manquait d&#39;énergie ?</title>
-      <link>http://localhost:1313/talks/agile_tour_lausanne_2022/</link>
+      <link>https://gluwewen.myblog.github.io/talks/agile_tour_lausanne_2022/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>http://localhost:1313/talks/agile_tour_lausanne_2022/</guid>
+      <guid>https://gluwewen.myblog.github.io/talks/agile_tour_lausanne_2022/</guid>
       <description>Retour d&amp;rsquo;expérience sur l’approche « bottom-up » mise en oeuvre pour initier le passage d’une organisation orientée projet à une organisation orientée produit.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/talks/agile_tour_lausanne_2022/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gluwewen.myblog.github.io/talks/agile_tour_lausanne_2022/featured.jpg" />
     </item>
     
     <item>
       <title>Agile tour Lyon 2022 - Vers une euphorie sans fin</title>
-      <link>http://localhost:1313/talks/agile_tour_lyon_2022/</link>
+      <link>https://gluwewen.myblog.github.io/talks/agile_tour_lyon_2022/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>http://localhost:1313/talks/agile_tour_lyon_2022/</guid>
+      <guid>https://gluwewen.myblog.github.io/talks/agile_tour_lyon_2022/</guid>
       <description>Retour d&amp;rsquo;expérience sur la création d&amp;rsquo;une équipe Produit au sein d&amp;rsquo;une entreprise historiquement organisée pour réaliser des projets.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/talks/agile_tour_lyon_2022/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gluwewen.myblog.github.io/talks/agile_tour_lyon_2022/featured.jpg" />
     </item>
     
   </channel>

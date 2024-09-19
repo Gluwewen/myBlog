@@ -3,129 +3,129 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://gluwewen.myblog.github.io/posts/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/posts/"
+      href="https://gluwewen.myblog.github.io/en/posts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/posts/"
+      href="https://gluwewen.myblog.github.io/posts/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/posts/impact_environnemental_logiciels/</loc>
+    <loc>https://gluwewen.myblog.github.io/posts/impact_environnemental_logiciels/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/posts/impact_environnemental_logiciels/"
+      href="https://gluwewen.myblog.github.io/en/posts/impact_environnemental_logiciels/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/posts/impact_environnemental_logiciels/"
+      href="https://gluwewen.myblog.github.io/posts/impact_environnemental_logiciels/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://gluwewen.myblog.github.io/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/"
+      href="https://gluwewen.myblog.github.io/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/"
+      href="https://gluwewen.myblog.github.io/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/talks/agile_tour_lausanne_2022/</loc>
+    <loc>https://gluwewen.myblog.github.io/talks/agile_tour_lausanne_2022/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/talks/agile_tour_lausanne_2022/"
+      href="https://gluwewen.myblog.github.io/en/talks/agile_tour_lausanne_2022/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/talks/agile_tour_lausanne_2022/"
+      href="https://gluwewen.myblog.github.io/talks/agile_tour_lausanne_2022/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/talks/</loc>
+    <loc>https://gluwewen.myblog.github.io/talks/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/talks/"
+      href="https://gluwewen.myblog.github.io/en/talks/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/talks/"
+      href="https://gluwewen.myblog.github.io/talks/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/talks/agile_tour_lyon_2022/</loc>
+    <loc>https://gluwewen.myblog.github.io/talks/agile_tour_lyon_2022/</loc>
     <lastmod>2022-06-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/talks/agile_tour_lyon_2022/"
+      href="https://gluwewen.myblog.github.io/en/talks/agile_tour_lyon_2022/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/talks/agile_tour_lyon_2022/"
+      href="https://gluwewen.myblog.github.io/talks/agile_tour_lyon_2022/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/bio/</loc>
+    <loc>https://gluwewen.myblog.github.io/bio/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/bio/"
+      href="https://gluwewen.myblog.github.io/en/bio/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/bio/"
+      href="https://gluwewen.myblog.github.io/bio/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/experiences/</loc>
+    <loc>https://gluwewen.myblog.github.io/experiences/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/experiences/"
+      href="https://gluwewen.myblog.github.io/en/experiences/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/experiences/"
+      href="https://gluwewen.myblog.github.io/experiences/"
     />
   </url>
 </urlset>
