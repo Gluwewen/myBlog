@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sustainable IT mind</title>
-    <link>//localhost:1313/en/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content on Sustainable IT mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vince.loiseau@icloud.com (Vincent Loiseau)</managingEditor>
     <webMaster>vince.loiseau@icloud.com (Vincent Loiseau)</webMaster>
     <copyright>© 2024 Vincent Loiseau</copyright>
-    <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software environmental impact</title>
-      <link>//localhost:1313/en/posts/impact_environnemental_logiciels/</link>
+      <link>http://localhost:1313/en/posts/impact_environnemental_logiciels/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>//localhost:1313/en/posts/impact_environnemental_logiciels/</guid>
+      <guid>http://localhost:1313/en/posts/impact_environnemental_logiciels/</guid>
       <description>Software, although virtual, has a real environmental impact. The proliferation of bloatware is adding to the carbon footprint of digital technology. Software eco-design is the key to a more sustainable future.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/impact_environnemental_logiciels/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/impact_environnemental_logiciels/featured.jpg" />
     </item>
     
     <item>
       <title>Agile tour Lausanne 2022 - Who said we lacked energy?</title>
-      <link>//localhost:1313/en/talks/agile_tour_lausanne_2022/</link>
+      <link>http://localhost:1313/en/talks/agile_tour_lausanne_2022/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>//localhost:1313/en/talks/agile_tour_lausanne_2022/</guid>
+      <guid>http://localhost:1313/en/talks/agile_tour_lausanne_2022/</guid>
       <description>Lessons learned on the bottom-up approach implemented to initiate the transition from a project-oriented to a product-oriented organisation.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/talks/agile_tour_lausanne_2022/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/talks/agile_tour_lausanne_2022/featured.jpg" />
     </item>
     
     <item>
       <title>Agile tour Lyon 2022 - Towards endless euphoria</title>
-      <link>//localhost:1313/en/talks/agile_tour_lyon_2022/</link>
+      <link>http://localhost:1313/en/talks/agile_tour_lyon_2022/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>//localhost:1313/en/talks/agile_tour_lyon_2022/</guid>
+      <guid>http://localhost:1313/en/talks/agile_tour_lyon_2022/</guid>
       <description>Lessons learned on the creation of a product team within a company historically organised to carry out projects.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/talks/agile_tour_lyon_2022/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/talks/agile_tour_lyon_2022/featured.jpg" />
     </item>
     
     <item>
       <title>About me</title>
-      <link>//localhost:1313/en/bio/</link>
+      <link>http://localhost:1313/en/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>//localhost:1313/en/bio/</guid>
+      <guid>http://localhost:1313/en/bio/</guid>
       <description>Agile coach, digital product management specialist, fervent advocate of sustainable development.</description>
       
     </item>
     
     <item>
       <title>Resume</title>
-      <link>//localhost:1313/en/experiences/</link>
+      <link>http://localhost:1313/en/experiences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>//localhost:1313/en/experiences/</guid>
+      <guid>http://localhost:1313/en/experiences/</guid>
       <description>My professional background is in digital software development, Agile coaching and sustainable development consulting.</description>
       
     </item>

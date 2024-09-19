@@ -3,129 +3,129 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/en/posts/</loc>
+    <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/posts/"
+      href="http://localhost:1313/posts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/posts/"
+      href="http://localhost:1313/en/posts/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/en/posts/impact_environnemental_logiciels/</loc>
+    <loc>http://localhost:1313/en/posts/impact_environnemental_logiciels/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/posts/impact_environnemental_logiciels/"
+      href="http://localhost:1313/posts/impact_environnemental_logiciels/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/posts/impact_environnemental_logiciels/"
+      href="http://localhost:1313/en/posts/impact_environnemental_logiciels/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/"
+      href="http://localhost:1313/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/"
+      href="http://localhost:1313/en/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/en/talks/agile_tour_lausanne_2022/</loc>
+    <loc>http://localhost:1313/en/talks/agile_tour_lausanne_2022/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/talks/agile_tour_lausanne_2022/"
+      href="http://localhost:1313/talks/agile_tour_lausanne_2022/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/talks/agile_tour_lausanne_2022/"
+      href="http://localhost:1313/en/talks/agile_tour_lausanne_2022/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/en/talks/</loc>
+    <loc>http://localhost:1313/en/talks/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/talks/"
+      href="http://localhost:1313/talks/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/talks/"
+      href="http://localhost:1313/en/talks/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/en/talks/agile_tour_lyon_2022/</loc>
+    <loc>http://localhost:1313/en/talks/agile_tour_lyon_2022/</loc>
     <lastmod>2022-06-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/talks/agile_tour_lyon_2022/"
+      href="http://localhost:1313/talks/agile_tour_lyon_2022/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/talks/agile_tour_lyon_2022/"
+      href="http://localhost:1313/en/talks/agile_tour_lyon_2022/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/en/bio/</loc>
+    <loc>http://localhost:1313/en/bio/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/bio/"
+      href="http://localhost:1313/bio/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/bio/"
+      href="http://localhost:1313/en/bio/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/en/experiences/</loc>
+    <loc>http://localhost:1313/en/experiences/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/experiences/"
+      href="http://localhost:1313/experiences/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/experiences/"
+      href="http://localhost:1313/en/experiences/"
     />
   </url>
 </urlset>

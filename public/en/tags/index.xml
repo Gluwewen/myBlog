@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sustainable IT mind</title>
-    <link>//localhost:1313/en/tags/</link>
+    <link>http://localhost:1313/en/tags/</link>
     <description>Recent content in Tags on Sustainable IT mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vince.loiseau@icloud.com (Vincent Loiseau)</managingEditor>
     <webMaster>vince.loiseau@icloud.com (Vincent Loiseau)</webMaster>
     <copyright>© 2024 Vincent Loiseau</copyright>
-    <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ecodesign</title>
-      <link>//localhost:1313/en/tags/ecodesign/</link>
+      <link>http://localhost:1313/en/tags/ecodesign/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>//localhost:1313/en/tags/ecodesign/</guid>
+      <guid>http://localhost:1313/en/tags/ecodesign/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Environnemental Impact</title>
-      <link>//localhost:1313/en/tags/environnemental-impact/</link>
+      <link>http://localhost:1313/en/tags/environnemental-impact/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>//localhost:1313/en/tags/environnemental-impact/</guid>
+      <guid>http://localhost:1313/en/tags/environnemental-impact/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Software</title>
-      <link>//localhost:1313/en/tags/software/</link>
+      <link>http://localhost:1313/en/tags/software/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>//localhost:1313/en/tags/software/</guid>
+      <guid>http://localhost:1313/en/tags/software/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Agile</title>
-      <link>//localhost:1313/en/tags/agile/</link>
+      <link>http://localhost:1313/en/tags/agile/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>//localhost:1313/en/tags/agile/</guid>
+      <guid>http://localhost:1313/en/tags/agile/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Content</title>
-      <link>//localhost:1313/en/tags/content/</link>
+      <link>http://localhost:1313/en/tags/content/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>//localhost:1313/en/tags/content/</guid>
+      <guid>http://localhost:1313/en/tags/content/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lessons Learned</title>
-      <link>//localhost:1313/en/tags/lessons-learned/</link>
+      <link>http://localhost:1313/en/tags/lessons-learned/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>//localhost:1313/en/tags/lessons-learned/</guid>
+      <guid>http://localhost:1313/en/tags/lessons-learned/</guid>
       <description></description>
       
     </item>
