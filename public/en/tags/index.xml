@@ -51,16 +51,6 @@
     </item>
     
     <item>
-      <title>Content</title>
-      <link>http://localhost:1313/en/tags/content/</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>http://localhost:1313/en/tags/content/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Lessons Learned</title>
       <link>http://localhost:1313/en/tags/lessons-learned/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
