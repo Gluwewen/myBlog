@@ -3,7 +3,7 @@ title: "Agile tour Lyon 2022 - Towards endless euphoria"
 summary: "Lessons learned on the creation of a product team within a company historically organised to carry out projects."
 description: "Lessons learned on the creation of a product team within a company historically organised to carry out projects."
 categories: ["talks"]
-tags: ["content", "agile", "lessons learned"]
+tags: ["agile", "lessons learned"]
 # externalUrl: "https://nunocoracao.com/posts/202310-blowfish-tutorial/"
 date: 2022-06-11
 draft: false
