@@ -14,7 +14,7 @@ showviews: false
 ---
 
 ## Expériences professionnelles
-<table>
+<table class="resume">
     <tr>
         <td style="vertical-align: middle !important;"><img alt="SoKube" src="./img/sokube-logo-96x96.jpg"></td>
         <td style="vertical-align: middle !important;">
@@ -58,7 +58,7 @@ Administration | Asset Management | Assurance | Banque privée | Energie | Luxe 
 - Participation à des conférences, meetups et ateliers techniques en tant que Speaker
 - Rédaction d'articles
 
-<table>
+<table class="resume">
     <tr>
         <td style="vertical-align: middle !important;"><img alt="LODH" src="./img/lombardodier-logo-96x96.jpg"></td>
         <td style="vertical-align: middle !important;">
@@ -102,7 +102,7 @@ Banque privée
 - Construction et facilitation de la communauté Agile
 - Construction d'un cursus de formation sur les approches Agiles
 
-<table>
+<table class="resume">
     <tr>
         <td style="vertical-align: middle !important;"><img alt="Altran" src="./img/altran-logo-96x96.jpg"></td>
         <td style="vertical-align: middle !important;">
@@ -142,7 +142,7 @@ Administration | Assurance | Banque privée | Energie | Luxe | Santé | Transpor
 - Responsable méthodologie chez Lombard Odier
 - Responsable de l'offre Agile d'Altran
 
-<table>
+<table class="resume">
     <tr>
         <td style="vertical-align: middle !important;"><img alt="Softeam Cadextan" src="./img/softeam-cadextan-logo-96x67.jpg"></td>
         <td style="vertical-align: middle !important;">
@@ -184,7 +184,7 @@ Asset Management | Assurance | Banque d'investissement | Immobilier
 - Direction de projets des offres "Agilité" et "Digitale" de Softeam Cadextan
 - Management de 45 collaborateurs répartis en 6 centres de services pour les clients CACIB, SGCIB, BNP Paribas, Natixis et Euler Hermes
 
-<table>
+<table class="resume">
     <tr>
         <td style="vertical-align: middle !important;"><img alt="Streamingedge" src="./img/streamingedge-logo-96x96.png"></td>
         <td style="vertical-align: middle !important;">
@@ -229,7 +229,7 @@ Si vous désirez en savoir plus, n'hésitez pas à consulter [mon profil LinkedI
 
 ## Formation
 
-<table>
+<table class="resume">
     <tr>
         <td style="vertical-align: middle !important;"><img alt="Institut des Mathématiques Appliquées" src="./img/ima-logo-96x96.jpg"></td>
         <td style="vertical-align: middle !important;">
@@ -263,7 +263,7 @@ Si vous désirez en savoir plus, n'hésitez pas à consulter [mon profil LinkedI
 
 ## Certifications
 
-<table>
+<table class="resume">
     <tr>
         <td style="vertical-align: middle !important;"><img alt="GREENIT.FR" src="./img/greenitfr-logo-96x96.jpg" style="width: 100px;"></td>
         <td style="vertical-align: middle !important;">
@@ -297,7 +297,7 @@ Si vous désirez en savoir plus, n'hésitez pas à consulter [mon profil LinkedI
 
 ## Langues, traits de caractère et loisirs
 
-<table>
+<table class="resume">
     <tbody>
         <tr>
             <th>Langues</th>
