@@ -32,7 +32,7 @@ Pourquoi devoir choisir entre accessibilité des services numériques, profit fi
 | Développement logiciel | Product Owner <br>_Scrum.org_ |
 | Intelligence collective | Scrum Master <br>_Scrum.org_ |
 
-{{< button href="/CV-FR-SOKUBE-Vincent-LOISEAU.pdf" >}}
+{{< button href="/CV-FR-SOKUBE-Vincent-LOISEAU.pdf" target="_blank" >}}
 Téléchargez mon CV
 {{< /button >}}
 
