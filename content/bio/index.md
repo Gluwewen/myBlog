@@ -13,6 +13,11 @@ showlikes: false
 showviews: false
 # authors:
 #   - nunocoracao
+# [Téléchargez mon CV]({{< ref "/assets/CV-FR-SOKUBE-Vincent-LOISEAU.pdf" >}})
+# {{< button href="#button" target="/assets/CV-FR-SOKUBE-Vincent-LOISEAU.pdf" >}}
+# Téléchargez mon CV
+# {{< /button >}}
+# [Téléchargez mon CV](/CV-FR-SOKUBE-Vincent-LOISEAU.pdf)
 ---
 
 "Après avoir développé des logiciels financiers aux Etats-unis, en Angleterre et en France au sein d'une start-up américaine spécialisée dans le développement logiciel financier, j'aide depuis plus de 15 ans les équipes de développement, les organisations et les managers a adopté une philosophie Agile. 
@@ -27,5 +32,8 @@ Pourquoi devoir choisir entre accessibilité des services numériques, profit fi
 | Développement logiciel | Product Owner <br>_Scrum.org_ |
 | Intelligence collective | Scrum Master <br>_Scrum.org_ |
 
+{{< button href="/CV-FR-SOKUBE-Vincent-LOISEAU.pdf" >}}
+Téléchargez mon CV
+{{< /button >}}
 
-[Téléchargez mon CV](/img/CV_FR_-_SOKUBE_-_Vincent_LOISEAU.pdf)
+

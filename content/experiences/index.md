@@ -224,7 +224,7 @@ Banque d'investissement | Edition de logiciels
 - Développement d'une application mobile sur Symbian OS pour le compte de Capitol
 
 {{< alert "linkedin" >}}
-Si vous désirez en savoir plus, n&rsquo;hésitez pas à consulter [mon profil LinkedIn](https://www.linkedin.com/in/loiseauvincent).
+Si vous désirez en savoir plus, n'hésitez pas à consulter [mon profil LinkedIn](https://www.linkedin.com/in/loiseauvincent).
 {{< /alert >}}
 
 ## Formation
