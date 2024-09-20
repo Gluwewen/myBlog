@@ -10,13 +10,13 @@ showlikes: false
 showviews: false
 # authors:
 #   - nunocoracao
-# penser aux secteurs d'activités des entreprises clientes
+# penser à ajouter des icônes aux secteurs d'activités de mes employeurs 
 ---
 
 ## Expériences professionnelles
 <table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="SoKube" src="./img/sokube-logo-96x96.jpg"></td>
+        <td style="vertical-align: middle !important;"><img alt="SoKube" src="./img/sokube-logo-96x96.jpg" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -60,7 +60,7 @@ Administration | Asset Management | Assurance | Banque privée | Energie | Luxe 
 
 <table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="LODH" src="./img/lombardodier-logo-96x96.jpg"></td>
+        <td style="vertical-align: middle !important;"><img alt="LODH" src="./img/lombardodier-logo-96x96.jpg" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -104,7 +104,7 @@ Banque privée
 
 <table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="Altran" src="./img/altran-logo-96x96.jpg"></td>
+        <td style="vertical-align: middle !important;"><img alt="Altran" src="./img/altran-logo-96x96.jpg" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -144,7 +144,7 @@ Administration | Assurance | Banque privée | Energie | Luxe | Santé | Transpor
 
 <table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="Softeam Cadextan" src="./img/softeam-cadextan-logo-96x67.jpg"></td>
+        <td style="vertical-align: middle !important;"><img alt="Softeam Cadextan" src="./img/softeam-logo-96x96.png" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -186,7 +186,7 @@ Asset Management | Assurance | Banque d'investissement | Immobilier
 
 <table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="Streamingedge" src="./img/streamingedge-logo-96x96.png"></td>
+        <td style="vertical-align: middle !important;"><img alt="Streamingedge" src="./img/streamingedge-logo-96x96.png" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -231,7 +231,7 @@ Si vous désirez en savoir plus, n'hésitez pas à consulter [mon profil LinkedI
 
 <table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="Institut des Mathématiques Appliquées" src="./img/ima-logo-96x96.jpg"></td>
+        <td style="vertical-align: middle !important;"><img alt="Institut des Mathématiques Appliquées" src="./img/ima-logo-96x96.jpg" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -265,7 +265,7 @@ Si vous désirez en savoir plus, n'hésitez pas à consulter [mon profil LinkedI
 
 <table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="GREENIT.FR" src="./img/greenitfr-logo-96x96.jpg" style="width: 100px;"></td>
+        <td style="vertical-align: middle !important;"><img alt="GREENIT.FR" src="./img/greenitfr-logo-96x96.jpg" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -278,7 +278,7 @@ Si vous désirez en savoir plus, n'hésitez pas à consulter [mon profil LinkedI
         </td>
     </tr>
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="SCRUM.ORG" src="./img/scrumorg-logo-96x96.png" style="width: 100px;"></td>
+        <td style="vertical-align: middle !important;"><img alt="SCRUM.ORG" src="./img/scrumorg-logo-96x96.png" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
