@@ -19,6 +19,22 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/en/references/strategize/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/references/strategize/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/references/strategize/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/en/</loc>
     <lastmod>2024-09-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
