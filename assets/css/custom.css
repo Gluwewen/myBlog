@@ -6,3 +6,12 @@
     border-radius: 5%;
     position: relative;
   }
+
+  .reference img {
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: white
+    border-radius: 5%
+    position: relative;
+  }

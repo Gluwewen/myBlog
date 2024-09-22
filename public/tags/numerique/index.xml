@@ -17,7 +17,7 @@
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
       <guid>http://localhost:1313/references/collectif-greenit-fr/</guid>
       <description>Le collectif Green IT est l’association qui fédère les experts à l’origine des démarches de sobriété numérique, numérique responsable, écoconception de service numérique et slow.tech.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/references/collectif-greenit-fr/featured-old.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/references/collectif-greenit-fr/featured.png" />
     </item>
     
   </channel>

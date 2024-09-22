@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organisational Change on Sustainable IT mind</title>
+    <link>http://localhost:1313/en/tags/organisational-change/</link>
+    <description>Recent content in Organisational Change on Sustainable IT mind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>vince.loiseau@icloud.com (Vincent Loiseau)</managingEditor>
+    <webMaster>vince.loiseau@icloud.com (Vincent Loiseau)</webMaster>
+    <copyright>© 2024 Vincent Loiseau</copyright>
+    <lastBuildDate>Sun, 22 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/organisational-change/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Team topologies</title>
+      <link>http://localhost:1313/en/references/team-topologies/</link>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/en/references/team-topologies/</guid>
+      <description>The book Team topologies by Matthew Skelton and Manuel Pais details an approach based on the inversion of Conway&amp;rsquo;s Law to accelerate the value delivery of technology organisations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/references/team-topologies/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
