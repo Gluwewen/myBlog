@@ -12,12 +12,9 @@ showauthor: false
 #   - nunocoracao
 ---
 
-<table class="reference">
-    <tr>
-        <td style="vertical-align: middle !important;"><img alt="Green IT collective" src="./img/logo-green-it-association.png" style="width: 600px;"></td>
-        <td style="vertical-align: middle !important;">Created in 2004, the Green IT collective is the association (under the 1901 law) that brings together the experts behind the digital sustainability, responsible digital, digital service eco-design and slow.tech approaches. </td>
-    </tr>
-</table>
+![Green IT collective](/img/logo-green-it-association.png)
+
+Created in 2004, the Green IT collective is the association (under the 1901 law) that brings together the experts behind the digital sustainability, responsible digital, digital service eco-design and slow.tech approaches.
 
 The collective is also interested in lowtech, and more generally in an alternative, more enviable digital future for our children. The Green IT collective is a forum for reflection on the issues surrounding the meeting of digital technology and sustainable development, commonly referred to as responsible digital technology.
 

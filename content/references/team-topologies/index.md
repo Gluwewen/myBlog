@@ -12,16 +12,13 @@ showauthor: false
 #   - nunocoracao
 ---
 
-<table class="reference">
-    <tr>
-        <td style="vertical-align: middle !important;"><img alt="Team Topologies" src="./img/team-topologies.jpg" style="width: 400px;"></td>
-        <td style="vertical-align: middle !important;">En 2021, au sein de notre club de lecture chez SoKube, <a href="https://www.linkedin.com/in/laurent-speyser-33ba72b6/" target="_blank">Laurent Speyser</a> nous a proposé de lire "Team topologies" de <a href="https://www.linkedin.com/in/matthewskelton/" target="_blank"> Matthew Skelton</a> et <a href="https://www.linkedin.com/in/manuelpais/" target="_blank">Manuel Pais</a>. Cela a été une véritable révélation, et un éclairage sur les dysfonctionnements que j'ai rencontré dans différentes entreprises lors de mes interventions de coach.</td>
-    </tr>
-</table>
+![Team topologies](featured.png)
+
+En 2021, au sein de notre club de lecture chez [SoKube](https://www.sokube.io), [Laurent Speyser](https://www.linkedin.com/in/laurent-speyser-33ba72b6/) nous a proposé de lire "Team topologies" de [Matthew Skelton](https://www.linkedin.com/in/matthewskelton/) et [Manuel Pais](https://www.linkedin.com/in/manuelpais/). Cela a été une véritable révélation, et un éclairage sur les dysfonctionnements que j'ai rencontré dans différentes entreprises lors de mes interventions de coach.
 
 > « Toute organisation qui conçoit un système, au sens large, concevra une structure qui sera la copie de la structure de communication de l’organisation. »
 >
-> – M. Conway
+> – Melvin E. Conway
 
 La **loi de Conway** est bien connue des collaborateurs d'entreprises réalisant des produits digitaux. Matthew et Manuel nous invite à inverser cette loi pour construire des équipes performantes ayant les interactions adéquates afin de construire le plus efficacement possible un produit digital, en se basant sur une approche "team-first" qui met l'accent sur des limites et des attentes claires en matière de communication et de responsabilités au sein des équipes et entre elles.
 

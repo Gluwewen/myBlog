@@ -12,12 +12,9 @@ showauthor: false
 #   - nunocoracao
 ---
 
-<table class="reference">
-    <tr>
-        <td style="vertical-align: middle !important;"><img alt="Collectif Green IT" src="./img/logo-green-it-association.png" style="width: 600px;"></td>
-        <td style="vertical-align: middle !important;">Créée en 2004, le collectif Green IT est l’association (loi 1901) qui fédère les experts à l’origine des démarches de sobriété numérique, numérique responsable, écoconception de service numérique et slow.tech. </td>
-    </tr>
-</table>
+![Collectif Green IT](/img/logo-green-it-association.png)
+
+Créée en 2004, le collectif Green IT est l’association (loi 1901) qui fédère les experts à l’origine des démarches de sobriété numérique, numérique responsable, écoconception de service numérique et slow.tech.
 
 Le collectif s'intéresse aussi à la lowtech, et plus globalement à un avenir numérique alternatif, plus enviable pour nos enfants. Le collectif Green IT est un lieu de réflexion sur les enjeux de la rencontre entre numérique et développement durable, ce que l’on appelle couramment le numérique responsable.
 

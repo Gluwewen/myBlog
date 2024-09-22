@@ -12,12 +12,9 @@ showauthor: false
 #   - nunocoracao
 ---
 
-<table class="reference">
-    <tr>
-        <td style="vertical-align: middle !important;"><img alt="Team Topologies" src="./img/team-topologies.jpg" style="width: 400px;"></td>
-        <td style="vertical-align: middle !important;">In 2021, as part of our book club at SoKube, <a href="https://www.linkedin.com/in/laurent-speyser-33ba72b6/" target="_blank">Laurent Speyser</a> suggested we read "Team topologies" by <a href="https://www.linkedin.com/in/matthewskelton/" target="_blank"> Matthew Skelton</a> and <a href="https://www.linkedin.com/in/manuelpais/" target="_blank">Manuel Pais</a>. It was a real revelation, and shed light on the dysfunctions I had encountered in various companies during my coaching work.</td>
-    </tr>
-</table>
+![Team topologies book](featured.png)
+
+In 2021, as part of our book club at [SoKube](https://www.sokube.io), [Laurent Speyser](https://www.linkedin.com/in/laurent-speyser-33ba72b6/) suggested we read "Team topologies" by [Matthew Skelton](https://www.linkedin.com/in/matthewskelton/) and [Manuel Pais](https://www.linkedin.com/in/manuelpais/). It was a real revelation, and shed light on the dysfunctions I had encountered in various companies during my coaching work.
 
 > "Organizations which design systems (in the broad sense used here) are constrained to produce designs which are copies of the communication structures of these organizations."
 >
