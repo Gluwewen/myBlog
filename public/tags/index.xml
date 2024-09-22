@@ -9,23 +9,43 @@
     <managingEditor>vince.loiseau@icloud.com (Vincent Loiseau)</managingEditor>
     <webMaster>vince.loiseau@icloud.com (Vincent Loiseau)</webMaster>
     <copyright>© 2024 Vincent Loiseau</copyright>
-    <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impact Environnemental</title>
+      <link>http://localhost:1313/tags/impact-environnemental/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/tags/impact-environnemental/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Numerique</title>
+      <link>http://localhost:1313/tags/numerique/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/tags/numerique/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Site Web</title>
+      <link>http://localhost:1313/tags/site-web/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/tags/site-web/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Ecoconception</title>
       <link>http://localhost:1313/tags/ecoconception/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
       <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
       <guid>http://localhost:1313/tags/ecoconception/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Impact Environnemental</title>
-      <link>http://localhost:1313/tags/impact-environnemental/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>http://localhost:1313/tags/impact-environnemental/</guid>
       <description></description>
       
     </item>

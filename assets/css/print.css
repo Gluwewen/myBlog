@@ -1,0 +1,19 @@
+body {
+    background-color: #fff; font-family: serif; font-size: 15pt;
+}
+#page {
+  margin: 0;
+  border: none;
+}
+
+#banner, #menuright, #footer {
+  display: none;
+}
+
+h1#top {
+  margin: 0;
+  padding: 0;
+  text-indent: 0;
+  line-height: 25pt;
+  font-size: 25pt;
+}

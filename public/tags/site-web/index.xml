@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site Web on Sustainable IT mind</title>
+    <link>http://localhost:1313/tags/site-web/</link>
+    <description>Recent content in Site Web on Sustainable IT mind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>vince.loiseau@icloud.com (Vincent Loiseau)</managingEditor>
+    <webMaster>vince.loiseau@icloud.com (Vincent Loiseau)</webMaster>
+    <copyright>© 2024 Vincent Loiseau</copyright>
+    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/site-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collectif GreenIT.fr</title>
+      <link>http://localhost:1313/references/collectif-greenit-fr/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/references/collectif-greenit-fr/</guid>
+      <description>Le collectif Green IT est l’association qui fédère les experts à l’origine des démarches de sobriété numérique, numérique responsable, écoconception de service numérique et slow.tech.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/references/collectif-greenit-fr/featured-old.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -30,6 +30,11 @@
   pageRef = "experiences"
   weight = 40
 
+[[main]]
+  name = "References"
+  pageRef = "references"
+  weight = 50
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20

@@ -9,15 +9,15 @@ title = "Sustainable IT mind"
   isoCode = "fr"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/logo_sustainable_it_mind.png"
-  secondaryLogo = "img/logo_sustainable_it_mind.png"
+  logo = "img/logo-sustainable-it-mind.png"
+  secondaryLogo = "img/logo-sustainable-it-mind.png"
   description = "Mon blog dédié au développement durable de produits digitaux"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
    name = "Vincent Loiseau"
    email = "vince.loiseau@icloud.com"
-   image = "img/photo_profil_rond.png"
+   image = "img/photo-profil-rond.png"
    imageQuality = 96
    headline = "Coach Agile - Spécialiste en gestion de produit digital"
    bio = "48 ans | 23 ans d'expérience"
