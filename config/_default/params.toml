@@ -43,7 +43,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
-  # homepageImage = "/img/logo_sustainable_minf_final.png" # used in: hero, and card
+  # homepageImage = "/img/logo_sustainable_mind_final.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = true

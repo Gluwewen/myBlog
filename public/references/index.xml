@@ -1,44 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Références on Sustainable IT mind</title>
+    <title>Références on Sustainable Mindset</title>
     <link>http://localhost:1313/references/</link>
-    <description>Recent content in Références on Sustainable IT mind</description>
+    <description>Recent content in Références on Sustainable Mindset</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>vince.loiseau@icloud.com (Vincent Loiseau)</managingEditor>
     <webMaster>vince.loiseau@icloud.com (Vincent Loiseau)</webMaster>
     <copyright>© 2024 Vincent Loiseau</copyright>
     <lastBuildDate>Sun, 22 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/references/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Strategize</title>
-      <link>http://localhost:1313/references/strategize/</link>
-      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>http://localhost:1313/references/strategize/</guid>
-      <description>Le livre Strategize de Roman Pichler détaille une approche de gestion de produit digital extrêmement efficace.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/references/strategize/featured.png" />
-    </item>
-    
-    <item>
-      <title>Team topologies</title>
-      <link>http://localhost:1313/references/team-topologies/</link>
-      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>http://localhost:1313/references/team-topologies/</guid>
-      <description>Le livre Team topologies de Matthew Skelton et Manuel Pais détaille une approche basée sur l&amp;rsquo;inversion de la Loi de Conway pour accélérer la livraison de valeur d&amp;rsquo;organisations technologiques.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/references/team-topologies/featured.png" />
-    </item>
-    
-    <item>
-      <title>Collectif GreenIT.fr</title>
-      <link>http://localhost:1313/references/collectif-greenit-fr/</link>
-      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@icloud.com (Vincent Loiseau)</author>
-      <guid>http://localhost:1313/references/collectif-greenit-fr/</guid>
-      <description>Le collectif Green IT est l’association qui fédère les experts à l’origine des démarches de sobriété numérique, numérique responsable, écoconception de service numérique et slow.tech.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/references/collectif-greenit-fr/featured.png" />
-    </item>
-    
   </channel>
 </rss>
