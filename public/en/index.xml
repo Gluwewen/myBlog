@@ -6,15 +6,15 @@
     <description>Recent content on Sustainable Mindset</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</managingEditor>
-    <webMaster>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</webMaster>
+    <managingEditor>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</managingEditor>
+    <webMaster>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</webMaster>
     <copyright>© 2024 Vincent Loiseau</copyright>
     <lastBuildDate>Sun, 22 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Strategize</title>
       <link>http://localhost:1313/en/references/strategize/</link>
       <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/references/strategize/</guid>
       <description>Roman Pichler&amp;rsquo;s book Strategize details an extremely effective approach to digital product management.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/references/strategize/featured.png" />
@@ -24,7 +24,7 @@
       <title>Team topologies</title>
       <link>http://localhost:1313/en/references/team-topologies/</link>
       <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/references/team-topologies/</guid>
       <description>The book Team topologies by Matthew Skelton and Manuel Pais details an approach based on the inversion of Conway&amp;rsquo;s Law to accelerate the value delivery of technology organisations.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/references/team-topologies/featured.png" />
@@ -34,7 +34,7 @@
       <title>GreenIT.fr association</title>
       <link>http://localhost:1313/en/references/collectif-greenit-fr/</link>
       <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/references/collectif-greenit-fr/</guid>
       <description>Green IT is the association that brings together the experts behind the digital sustainability, responsible digital, eco-design of digital services and slow.tech approaches.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/references/collectif-greenit-fr/featured.png" />
@@ -44,7 +44,7 @@
       <title>Software environmental impact</title>
       <link>http://localhost:1313/en/posts/impact-environnemental-logiciels/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/posts/impact-environnemental-logiciels/</guid>
       <description>Software, although virtual, has a real environmental impact. The proliferation of bloatware is adding to the carbon footprint of digital technology. Software eco-design is the key to a more sustainable future.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/impact-environnemental-logiciels/featured.jpg" />
@@ -54,7 +54,7 @@
       <title>Agile tour Lausanne 2022 - Who said we lacked energy?</title>
       <link>http://localhost:1313/en/talks/agile_tour_lausanne_2022/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/talks/agile_tour_lausanne_2022/</guid>
       <description>Lessons learned on the bottom-up approach implemented to initiate the transition from a project-oriented to a product-oriented organisation.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/talks/agile_tour_lausanne_2022/featured.jpg" />
@@ -64,7 +64,7 @@
       <title>Agile tour Lyon 2022 - Towards endless euphoria</title>
       <link>http://localhost:1313/en/talks/agile_tour_lyon_2022/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/talks/agile_tour_lyon_2022/</guid>
       <description>Lessons learned on the creation of a product team within a company historically organised to carry out projects.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/talks/agile_tour_lyon_2022/featured.jpg" />
@@ -74,7 +74,7 @@
       <title>About me</title>
       <link>http://localhost:1313/en/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/bio/</guid>
       <description>Agile coach, digital product management specialist, fervent advocate of sustainable development.</description>
       
@@ -84,7 +84,7 @@
       <title>Resume</title>
       <link>http://localhost:1313/en/experiences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/experiences/</guid>
       <description>My professional background is in digital software development, Agile coaching and sustainable development consulting.</description>
       

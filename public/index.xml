@@ -6,15 +6,15 @@
     <description>Recent content on Sustainable Mindset</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <managingEditor>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</managingEditor>
-    <webMaster>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</webMaster>
+    <managingEditor>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</managingEditor>
+    <webMaster>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</webMaster>
     <copyright>© 2024 Vincent Loiseau</copyright>
     <lastBuildDate>Sun, 22 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Strategize</title>
       <link>http://localhost:1313/references/strategize/</link>
       <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/references/strategize/</guid>
       <description>Le livre Strategize de Roman Pichler détaille une approche de gestion de produit digital extrêmement efficace.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/references/strategize/featured.png" />
@@ -24,7 +24,7 @@
       <title>Team topologies</title>
       <link>http://localhost:1313/references/team-topologies/</link>
       <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/references/team-topologies/</guid>
       <description>Le livre Team topologies de Matthew Skelton et Manuel Pais détaille une approche basée sur l&amp;rsquo;inversion de la Loi de Conway pour accélérer la livraison de valeur d&amp;rsquo;organisations technologiques.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/references/team-topologies/featured.png" />
@@ -34,7 +34,7 @@
       <title>Collectif GreenIT.fr</title>
       <link>http://localhost:1313/references/collectif-greenit-fr/</link>
       <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/references/collectif-greenit-fr/</guid>
       <description>Le collectif Green IT est l’association qui fédère les experts à l’origine des démarches de sobriété numérique, numérique responsable, écoconception de service numérique et slow.tech.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/references/collectif-greenit-fr/featured.png" />
@@ -44,7 +44,7 @@
       <title>Impact environnemental des logiciels</title>
       <link>http://localhost:1313/posts/impact-environnemental-logiciels/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/posts/impact-environnemental-logiciels/</guid>
       <description>Les logiciels, bien que virtuels, ont un impact environnemental bien réel. La prolifération des obésiciels alourdit l&amp;rsquo;empreinte carbone du numérique. L&amp;rsquo;écoconception logicielle est la clé pour un avenir plus durable.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/impact-environnemental-logiciels/featured.jpg" />
@@ -54,7 +54,7 @@
       <title>Agile tour Lausanne 2022 - Qui a dit qu&#39;on manquait d&#39;énergie ?</title>
       <link>http://localhost:1313/talks/agile_tour_lausanne_2022/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/talks/agile_tour_lausanne_2022/</guid>
       <description>Retour d&amp;rsquo;expérience sur l’approche « bottom-up » mise en oeuvre pour initier le passage d’une organisation orientée projet à une organisation orientée produit.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/talks/agile_tour_lausanne_2022/featured.jpg" />
@@ -64,7 +64,7 @@
       <title>Agile tour Lyon 2022 - Vers une euphorie sans fin</title>
       <link>http://localhost:1313/talks/agile_tour_lyon_2022/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/talks/agile_tour_lyon_2022/</guid>
       <description>Retour d&amp;rsquo;expérience sur la création d&amp;rsquo;une équipe Produit au sein d&amp;rsquo;une entreprise historiquement organisée pour réaliser des projets.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/talks/agile_tour_lyon_2022/featured.jpg" />
@@ -74,7 +74,7 @@
       <title>À propos de moi</title>
       <link>http://localhost:1313/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/bio/</guid>
       <description>Coach Agile, spécialiste en gestion de produit digital, fervant défenseur du développement durable.</description>
       
@@ -84,7 +84,7 @@
       <title>Curriculum vitae</title>
       <link>http://localhost:1313/experiences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>vince.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/experiences/</guid>
       <description>Mon parcours professionnel dans le monde du développement logiciel digital, du coaching Agile et du consulting en développement durable.</description>
       
