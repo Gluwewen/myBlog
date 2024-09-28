@@ -47,7 +47,7 @@ Par expérience, j'utilise des ateliers de type [User role modeling](https://www
 Téléchargez le cartouche Product Vision Board
 {{< /button >}}
 
-## Goal-oriented product board
+## Goal-oriented product roadmap
 
 ![Cartouche GO Product Roadmap](/img/pichler-go-product-roadmap-template.jpg)
 
