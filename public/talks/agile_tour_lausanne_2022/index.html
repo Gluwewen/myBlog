@@ -109,7 +109,7 @@
     "keywords": ["agile","rex"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "66"
+    "wordCount": "1266"
   }]
   </script>
 
@@ -609,7 +609,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2022-12-09T00:00:00&#43;00:00">9 décembre 2022</time><span class="px-2 text-primary-500">&middot;</span><span>66 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">1 min</span><span class="px-2 text-primary-500">&middot;</span><span>
+  <time datetime="2022-12-09T00:00:00&#43;00:00">9 décembre 2022</time><span class="px-2 text-primary-500">&middot;</span><span>1266 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">6 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
   
   
     
@@ -841,7 +841,89 @@
   
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
     
-    
+     <div
+      class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
+      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-10">
+
+         <details open id="TOCView"
+  class="toc-right mt-0 overflow-y-scroll overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Sommaire
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#pourquoi-lentreprise-sig-sest-elle-lancé-dans-une-telle-aventure">Pourquoi l&rsquo;entreprise SIG s&rsquo;est-elle lancé dans une telle aventure?</a></li>
+    <li><a href="#quelles-sont-les-ambitions-attendues-et-les-obstacles-identifiés">Quelles sont les ambitions attendues et les obstacles identifiés?</a>
+      <ul>
+        <li><a href="#diminuer-le-time-to-market">Diminuer le Time To Market</a></li>
+        <li><a href="#améliorer-lefficience">Améliorer l&rsquo;efficience</a></li>
+        <li><a href="#améliorer-la-qualité">Améliorer la qualité</a></li>
+      </ul>
+    </li>
+    <li><a href="#qua-t-on-mis-en-oeuvre-pour-atteindre-ces-ambitions">Qu&rsquo;a-t-on mis en oeuvre pour atteindre ces ambitions?</a></li>
+    <li><a href="#où-en-est-on-et-que-souhaitons-nous-adresser-prochainement">Où en est-on et que souhaitons-nous adresser prochainement?</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Sommaire
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#pourquoi-lentreprise-sig-sest-elle-lancé-dans-une-telle-aventure">Pourquoi l&rsquo;entreprise SIG s&rsquo;est-elle lancé dans une telle aventure?</a></li>
+    <li><a href="#quelles-sont-les-ambitions-attendues-et-les-obstacles-identifiés">Quelles sont les ambitions attendues et les obstacles identifiés?</a>
+      <ul>
+        <li><a href="#diminuer-le-time-to-market">Diminuer le Time To Market</a></li>
+        <li><a href="#améliorer-lefficience">Améliorer l&rsquo;efficience</a></li>
+        <li><a href="#améliorer-la-qualité">Améliorer la qualité</a></li>
+      </ul>
+    </li>
+    <li><a href="#qua-t-on-mis-en-oeuvre-pour-atteindre-ces-ambitions">Qu&rsquo;a-t-on mis en oeuvre pour atteindre ces ambitions?</a></li>
+    <li><a href="#où-en-est-on-et-que-souhaitons-nous-adresser-prochainement">Où en est-on et que souhaitons-nous adresser prochainement?</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+<script>
+
+  var margin = 200;
+  var marginError = 50;
+
+  (function () {
+    var $window = $(window);
+    var $toc = $('#TOCView');
+    var tocHeight = $toc.height();
+
+    function onResize() {
+      var windowAndMarginHeight = $window.height() - margin;
+      if(tocHeight >= windowAndMarginHeight) {
+        $toc.css("overflow-y", "scroll")
+        $toc.css("max-height", (windowAndMarginHeight + marginError) + "px")
+      } else {
+        $toc.css("overflow-y", "hidden")
+        $toc.css("max-height", "9999999px")
+      }
+    }
+
+    $window.on('resize', onResize);
+    $(document).ready(onResize);
+  })();
+
+
+
+</script>
+   </div>
+      </div>
+      
 
       <div class="min-w-0 min-h-0 max-w-fit">
         
@@ -866,7 +948,207 @@
     </figure>
 </p>
 <p>Vous craignez les coupures de gaz ou d’électricité ? Malgré un contexte énergétique compliqué, SIG redouble d’énergie pour accélérer la transition énergétique et environnementale à Genève.</p>
-<p>Guillaume Estoup, responsable de l&rsquo;unité Digital Factory SIG, et Vincent Loiseau, coach Agile SoKube, vous propose un retour d’expérience sur l’approche « bottom-up » mise en oeuvre pour initier le passage d’une organisation orientée projet à une organisation orientée produit.</p>
+<p><a href="https://www.linkedin.com/in/guillaumeestoup/" target="_blank">Guillaume Estoup</a>, responsable de l&rsquo;unité Digital Factory SIG, et <a href="www.linkedin.com/in/loiseauvincent">Vincent Loiseau</a>, coach Agile <a href="https://www.sokube.io" target="_blank">SoKube</a>, vous propose un retour d’expérience sur l’approche « bottom-up » mise en oeuvre pour initier le passage d’une organisation orientée projet à une organisation orientée produit.</p>
+
+
+<h2 class="relative group">Pourquoi l&rsquo;entreprise SIG s&rsquo;est-elle lancé dans une telle aventure? 
+    <div id="pourquoi-lentreprise-sig-sest-elle-lanc%C3%A9-dans-une-telle-aventure" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#pourquoi-lentreprise-sig-sest-elle-lanc%C3%A9-dans-une-telle-aventure" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<ul>
+<li>De nombreuses initiatives en parallèles et non coordonnées sont lancées autour d&rsquo;une même chaine de valeur ou d&rsquo;un processus métier, ceci générant des surcoûts et une complexité croissante du système d’information</li>
+<li>Le pilotage projet est fonction des demandes émises par les clients pour qui, il est important de démarrer au plus tôt. Nous reconnaissons ici la fausse croyance selon laquelle plus on commence tôt un sujet, plus vite on le termine.</li>
+<li>Les livraisons sont saccadées et les utilisateurs sont peu impactés dans la création de valeur, générant un effet tunnel</li>
+<li>Les collaborateurs sont affectés à de nombreuses activités en parallèle (changement de contexte fréquents, baisse d’efficacité, surcharge, fatigue)</li>
+<li>Les arbitrages sur les disponibilités des ressources (plutôt que sur le contenu) sont bien trop fréquents</li>
+<li>Le temps moyen de traitement des demandes est jugé trop long par les demandeurs</li>
+</ul>
+<p>De ce constat, SIG a décidé d&rsquo;amener de l&rsquo;Agilité dans son organisation pour optimiser la génération de valeur, et ainsi définir l&rsquo;objectif suivant:</p>
+<blockquote>
+<p>&ldquo;Selon le contexte propre aux équipes, mettre en place l’organisation la plus adaptée afin d’optimiser la génération de valeur&rdquo;</p>
+<p>– Guillaume Estoup (SIG)</p>
+</blockquote>
+
+
+<h2 class="relative group">Quelles sont les ambitions attendues et les obstacles identifiés? 
+    <div id="quelles-sont-les-ambitions-attendues-et-les-obstacles-identifi%C3%A9s" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#quelles-sont-les-ambitions-attendues-et-les-obstacles-identifi%C3%A9s" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>De cet objectif ont été déclinées trois grandes ambitions:</p>
+<ul>
+<li>Diminuer le Time To Market: en moyenne le délai de livraison des petites demandes de moins de 3 jours de charge était supérieur à 4 mois</li>
+<li>Améliorer l&rsquo;efficience de la livraison de valeur, en se concentrant non plus sur l&rsquo;optimisation du temps de travail mais sur l&rsquo;optimisation du délai de livraison des demandes</li>
+<li>Améliorer la qualité des livrables pour limiter le maintien en conditions opérationnelles les solutions du système d&rsquo;information.</li>
+</ul>
+<p>Avoir de grandes ambitions c&rsquo;est bien, se préparer à un chemin mouvementé pour les atteindre c&rsquo;est mieux. C&rsquo;est ainsi que SIG a clairement identifié sur ses points faibles afin de les intégrer dans les réflexions de transformation:</p>
+<ul>
+<li>SIG a une culture d&rsquo;entreprise industrielle dont la gestion de projet historique se base sur un niveau de certitude très haut</li>
+<li>Le processus budgétaire de SIG se fait via une répartition par projets. Une fous ces projets sélectionnés, les ressources y sont affectées</li>
+<li>Chaque direction métier fait sa propre gestion de portefeuilles de projet, amenant des initiatives identiques ou très similaires mais non coordonnées</li>
+</ul>
+
+
+<h3 class="relative group">Diminuer le Time To Market 
+    <div id="diminuer-le-time-to-market" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#diminuer-le-time-to-market" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>
+    <figure>
+      <img
+        class="my-0 rounded-md"
+        loading="lazy"
+        srcset="
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-ttm_hu15739240093060837722.png 330w,
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-ttm_hu15378506051879260871.png 660w,
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-ttm_hu3751157814536147707.png 1024w,
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-ttm_hu1238431201685234375.png 2x"
+        src="/talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-ttm_hu15378506051879260871.png"
+        alt="Ambition Time To market"
+      />
+      
+    </figure>
+</p>
+<p>SIG s&rsquo;est fixé un premier objectif intermédiaire, à savoir de livrer plus tôt la valeur en passant de 4 mois à 2 mois le Time To Market dans les deux ans à venir. Pour cela, nous avons travaillé sur les trois aspects suivants:</p>
+<ul>
+<li><strong>construire les solutions par incréments</strong> via une approche orientée valeur, en définissant des Minimum Viable Product (ou MVP), en identifiant et en simplifiant les flux de création de valeur;</li>
+<li><strong>faciliter la bonne prise de décision</strong> via une approche empirique, en apprenant à gérer l&rsquo;incertitude, en expérimentant et en ayant le bon niveau de compétences dans les équipes;</li>
+<li><strong>accélérer la prise de décision</strong> via une approche <a href="/content/references/team-topologies/index.md">team topologies</a>, en déléguant les décisions le plus possible aux équipes pour les sujets qu&rsquo;elles maîtrisent, et en travaillant à limiter les dépendances entre les différentes équipes et expertises en dehors des équipes.</li>
+</ul>
+
+
+<h3 class="relative group">Améliorer l&rsquo;efficience 
+    <div id="am%C3%A9liorer-lefficience" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#am%C3%A9liorer-lefficience" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>
+    <figure>
+      <img
+        class="my-0 rounded-md"
+        loading="lazy"
+        srcset="
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-efficience_hu16136242671344103523.png 330w,
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-efficience_hu8048605460762483977.png 660w,
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-efficience_hu12010858281078456364.png 1024w,
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-efficience_hu17717091414092303563.png 2x"
+        src="/talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-efficience_hu8048605460762483977.png"
+        alt="Ambition Efficience"
+      />
+      
+    </figure>
+</p>
+<blockquote>
+<p>&ldquo;Ce qui ne peut pas être mesuré ne peut pas être amélioré&rdquo;</p>
+<p>– Peter Drucker</p>
+</blockquote>
+<p>Les premières actions ont été de se doter de moyens de mesurer les activités pour mieux comprendre là où nous n&rsquo;étions pas efficace, de limiter les opérations manuelles, sources importantes d&rsquo;erreur, et de rationaliser les interactions avec les équipes externes. Nous adoptions une approche orientée flux de valeur.</p>
+<p>Pour améliorer l&rsquo;efficience, nous devions imprérativement limiter le travail en cours, en faisant comprendre et en appliquant le principe &ldquo;Stop starting, start finishing&rdquo;. Pour cela nous avons mis en place des équipes Produit dans lesquelles nous déléguions la gestion des priorités aux Product Owners. Nous imposions aux managers de limiter l&rsquo;affectation des collaborateus au maximum à deux équipes afin de diminuer mécaniquement le coût en coordination. Au sein des équipes, nous avons incité à limiter le travail en cours en proposant de définir des limites de travail en cours en fonction de leur contexte.</p>
+<p>Et pour finir, l&rsquo;efficience n&rsquo;est possible que si la compétence est présente et partagée. Ainsi, nous avons mis en place des communautés de pratiques en se basant sur des parcours de formation Product Owners et Scrum Masters. Nous avons aussi officialisé la construction d&rsquo;une équipe FinOps afin de permettre la montée en compétences des collaborateurs sur l&rsquo;impact financier du développement d&rsquo;applications native cloud.</p>
+
+
+<h3 class="relative group">Améliorer la qualité 
+    <div id="am%C3%A9liorer-la-qualit%C3%A9" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#am%C3%A9liorer-la-qualit%C3%A9" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>
+    <figure>
+      <img
+        class="my-0 rounded-md"
+        loading="lazy"
+        srcset="
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-qualite_hu18389313629598307542.jpg 330w,
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-qualite_hu10096095003803431086.jpg 660w,
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-qualite_hu15899361298786735983.jpg 1024w,
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-qualite_hu1383812131153364718.jpg 2x"
+        src="/talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-ambition-qualite_hu10096095003803431086.jpg"
+        alt="Ambition Qualité"
+      />
+      
+    </figure>
+</p>
+<p>Qui serait prêt à traverser par ce pont de singe? Surtout sans vérifier la qualité de ce dernier? Pas grand monde! Et pourtant dans le milieu informatique, on est prêt à travailler sans filet de sécurité. Bizarre non?
+Tout comme pour améliorer l&rsquo;efficience, la première étape est de mesurer pour faire prendre conscience de la dette technique des solutions actuelles. Ensuite, nous avons amélioré petit à petit la définition du terminé (DoD) des équipes en mettant en place un filet de sécurité de plus en plus grand et solide avec une approche shift left testing. La qualité des livraisons a commencé à s&rsquo;améliorer, facilitant la génération de feedback de valeur.
+Pour renforcer encore plus cette sensibilisation à développer les produits de la bonne façon, en faisant en sorte que le coût de maintien en condition opérationnelle soit le plus petit possible, nous avons responsabilisé les équipes en leur donnant la responsabilité d&rsquo;opérer ce qu&rsquo;elles construisaient, et de déployer elles-même en production en structurant et automatisant les processus de déploiement.</p>
+
+
+<h2 class="relative group">Qu&rsquo;a-t-on mis en oeuvre pour atteindre ces ambitions? 
+    <div id="qua-t-on-mis-en-oeuvre-pour-atteindre-ces-ambitions" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#qua-t-on-mis-en-oeuvre-pour-atteindre-ces-ambitions" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Une transformation Agile d&rsquo;organisation est avant tout l&rsquo;apprentissage d&rsquo;une nouvelle culture de travail, qui s&rsquo;acquiert et se construit petit pas par petit pas. Nous n&rsquo;avons donc pas méné d&rsquo;approche big bang de ce changement et avons dû être l&rsquo;écoute de trois différents évènements déclencheur.</p>
+<p>Le premier est l&rsquo;opportunité opérationnelle. Lorsqu&rsquo;un projet peut être candidat pour faire différemment et accélérer la livraison de valeur, nous sautions sur l&rsquo;occasion et partagions les leçons apprises avec les autres équipes. Par exemple, nous avons construit une équipe produit ayant des forts enjeux sur le time to market et la capacité à construire et opérer une nouvelle solution.</p>
+<p>Le deuxième déclencheur est la volonté d&rsquo;expérimenter pour améliorer l&rsquo;efficience des équipes. Pour chaque expérimentation, nous cherchions quelle équipe pouvait être candidate.</p>
+<p>Le dernier déclencheur est la volonté des départements métier à travailler différemment. Ce déclencheur est apparu après avoir eu plusieurs succès retentissant dans l&rsquo;entreprise. Nous avons donc commencé à sensibiliser les métiers avant de les aider à identifier des opportunités d&rsquo;expérimentations avec eux.</p>
+<p>L&rsquo;apprentissage de la culture Agile s&rsquo;est faite de manière empirique, en embarquant les personnes motivées par le changement. Ainsi nous nous dispersions pas dans des accompagnements inutiles et compliqués humainement.</p>
+<p>Pour finir, nous avons mis en place une équipe de gouvernance dont les objectifs étaient de :</p>
+<ul>
+<li>prioriser les chantiers transverses à expérimenter (parcours de formation, qualité des livrables, communauté de pratiques&hellip;)</li>
+<li>faire le suivi de l&rsquo;avancement de ces chantiers via un board kanban</li>
+<li>favoriser le partage de la connaissance en réalisant des rétrospectives de ces chantiers</li>
+</ul>
+
+
+<h2 class="relative group">Où en est-on et que souhaitons-nous adresser prochainement? 
+    <div id="o%C3%B9-en-est-on-et-que-souhaitons-nous-adresser-prochainement" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#o%C3%B9-en-est-on-et-que-souhaitons-nous-adresser-prochainement" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>
+    <figure>
+      <img
+        class="my-0 rounded-md"
+        loading="lazy"
+        srcset="
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-next-steps_hu4646946122620339431.png 330w,
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-next-steps_hu11522982828492119057.png 660w,
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-next-steps_hu14944156161451333272.png 1024w,
+        /talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-next-steps_hu5397674672246753372.png 2x"
+        src="/talks/agile_tour_lausanne_2022/img/agile-tour-lausanne-2022-next-steps_hu11522982828492119057.png"
+        alt="Prochaines étapes"
+      />
+      
+    </figure>
+</p>
 
           
           
