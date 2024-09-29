@@ -14,9 +14,9 @@ showviews: false
 ---
 
 ## Professional experiences
-<table>
+<table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="SoKube" src="./img/sokube-logo-96x96.jpg"></td>
+        <td style="vertical-align: middle !important;"><img alt="SoKube" src="https://www.sustainablemind.tech/experiences/img/sokube-logo-96x96.jpg" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -58,9 +58,9 @@ Administration | Asset Management | Insurance | Private Banking | Energy | Luxur
 - Speaking at conferences, meetups and technical workshops
 - Writing articles
 
-<table>
+<table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="LODH" src="./img/lombardodier-logo-96x96.jpg"></td>
+        <td style="vertical-align: middle !important;"><img alt="LODH" src="https://www.sustainablemind.tech/experiences/img/lombardodier-logo-96x96.jpg" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -102,9 +102,9 @@ Private banking
 - Building and facilitating the Agile community
 - Building a training curriculum on Agile approaches
 
-<table>
+<table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="Altran" src="./img/altran-logo-96x96.jpg"></td>
+        <td style="vertical-align: middle !important;"><img alt="Altran" src="https://www.sustainablemind.tech/experiences/img/altran-logo-96x96.jpg" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -142,9 +142,9 @@ Administration | Insurance | Private Banking | Energy | Luxury | Health | Transp
 - Methodology manager at Lombard Odier
 - Head of Altran's Agile offering
 
-<table>
+<table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="Softeam Cadextan" src="./img/softeam-cadextan-logo-96x67.jpg"></td>
+        <td style="vertical-align: middle !important;"><img alt="Softeam Cadextan" src="https://www.sustainablemind.tech/experiences/img/softeam-logo-96x96.png" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -184,9 +184,9 @@ Asset Management | Insurance | Investment Banking | Real Estate
 - Project management of Softeam Cadextan's ‘Agility’ and ‘Digital’ offerings
 - Management of 45 employees in 6 service centres for clients CACIB, SGCIB, BNP Paribas, Natixis and Euler Hermes
 
-<table>
+<table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="Streamingedge" src="./img/streamingedge-logo-96x96.png"></td>
+        <td style="vertical-align: middle !important;"><img alt="Streamingedge" src="https://www.sustainablemind.tech/experiences/img/streamingedge-logo-96x96.png" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -229,9 +229,9 @@ If you’d like to know more about me, feel free to check out [my LinkedIn profi
 
 ## Education
 
-<table>
+<table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="Institut des Mathématiques Appliquées" src="./img/ima-logo-96x96.jpg"></td>
+        <td style="vertical-align: middle !important;"><img alt="Institut des Mathématiques Appliquées" src="https://www.sustainablemind.tech/experiences/img/ima-logo-96x96.jpg" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -263,9 +263,9 @@ If you’d like to know more about me, feel free to check out [my LinkedIn profi
 
 ## Certifications
 
-<table>
+<table class="resume">
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="GREENIT.FR" src="./img/greenitfr-logo-96x96.jpg" style="width: 100px;"></td>
+        <td style="vertical-align: middle !important;"><img alt="GREENIT.FR" src="https://www.sustainablemind.tech/experiences/img/greenitfr-logo-96x96.jpg" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
@@ -278,7 +278,7 @@ If you’d like to know more about me, feel free to check out [my LinkedIn profi
         </td>
     </tr>
     <tr>
-        <td style="vertical-align: middle !important;"><img alt="SCRUM.ORG" src="./img/scrumorg-logo-96x96.png" style="width: 100px;"></td>
+        <td style="vertical-align: middle !important;"><img alt="SCRUM.ORG" src="https://www.sustainablemind.tech/experiences/img/scrumorg-logo-96x96.png" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
