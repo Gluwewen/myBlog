@@ -1,6 +1,6 @@
 ---
 title: "Feedback on Swiss IT Forum(s) 2024"
-summary: "Feedback on the Digital Responsibility conferences I attended at Swiss IT forum(s) 2024, held on 26 and 27 September at Palexpo (Geneva)"
+summary: "Feedback on the sustainable IT conferences I attended at Swiss IT forum(s) 2024, held on 26 and 27 September at Palexpo (Geneva)"
 description: "The Swiss IT forum(s) 2024 was held on 26 and 27 September at Palexpo (Geneva). It's a major event in Geneva where companies come to present their business and IT solutions, and this year the digital transition and AI were the subjects in the spotlight. In this article, I'm going to share with you some of the conferences I had the pleasure of attending."
 categories: ["posts"]
 tags: [sustainableIT, GreenIT, resilio, mikujy, Digital collage, Artificial Intelligence, Ethic By Design]
@@ -52,7 +52,7 @@ Amael then presents Resilio's overall LCA approach, which is divided into 4 stag
 - **Act**: take stock in terms of inventory, footprint and maturity, benchmark the footprint against the average of companies already studied, make recommendations for building the action plan, present the results to the project team, then simulate the plan's actions.
 
 {{< alert "comment" >}}
-Personally, I feel that there is one point missing from the approach described: raising employee awareness of digital responsibility, in order to make it easier and more transparent to gather data and take action once the plan has been drawn up. 
+Personally, I feel that there is one point missing from the approach described: raising employee awareness on sustainable IT, in order to make it easier and more transparent to gather data and take action once the plan has been drawn up. 
 Knowing Resilio, this aspect is also covered in their approach, and brilliantly so by Celine Carle-Faye, head of training and gamification at Resilio.
 {{< /alert >}}
 
@@ -67,7 +67,7 @@ Finally, during the Q&A session, a very interesting question was asked about Swi
 ## MIKUJY - CircularIT
 
 *Demonstration of CircularIT by [Ivan Mariblanca Flinch](https://www.linkedin.com/in/ivanmariblancaflinch/) (MIKUJY)*
-*[MIKUJI](https://mikujy.com), formerly Canopé, based in Neuchatel, and closely linked to the Swiss association for responsible digital technology [ISIT-CH](https://isit-ch.org), of which Ivan is the head of the scientific committee.*
+*[MIKUJI](https://mikujy.com), formerly Canopé, based in Neuchatel, and closely linked to the Swiss association for sustainable IT[ISIT-CH](https://isit-ch.org), of which Ivan is the head of the scientific committee.*
 
 ![Demo Mikujy photo](/img/sitf-2024-demo-mikujy.png)
 
@@ -82,14 +82,14 @@ After this shocking question, Ivan presented his company, MIKUJY, and in particu
 > "We measure and help companies to reduce the carbon footprint of their information systems and support them throughout their sustainable digital journey."
 
 MIKUJY is unique in that it is the first Swiss company to offer an all-in-one solution with:
-- An assessment of IT's footprint on the 8 measurable environmental indicators and the maturity of organisations in relation to responsible digital practices;
+- An assessment of IT's footprint on the 8 measurable environmental indicators and the maturity of organisations in relation to sustainable IT practices;
 - Strategy creation;
 - The creation of action plans;
 - Change management, by promoting employee awareness via workshops enhanced by didactic videos and games calling on collective intelligence
 - Certification training for employees;
-- And certification in digital responsibility.
+- And certification in sustainable IT.
 
-MIKUJY is the only company to certify organisations as digitally responsible in Switzerland (NR label from the ISIT-CH association).
+MIKUJY is the only company to certify organisations on sustainable IT in Switzerland (NR label from the ISIT-CH association).
 
 To support MIKUJI's activities, Ivan introduced us to the various modules of the [CircularIT](https://circularit.mikujy.com/) web platform.
 
@@ -112,7 +112,7 @@ Key ambitions:
 - Improve transparency and predictability.
 
 ### ImplementIT
-Implementing a responsible digital strategy is crucial to significantly reducing the environmental impact of digital. This module provides each department with its concrete actions to implement, facilitating and accelerating the adoption and deployment of the responsible digital strategy. 
+Implementing a sustainable IT strategy is crucial to significantly reducing the environmental impact of digital. This module provides each department with its concrete actions to implement, facilitating and accelerating the adoption and deployment of the sustainable IT strategy. 
 
 Main ambitions:
 - Prioritise actions according to an organisation's maturity;
@@ -121,11 +121,11 @@ Main ambitions:
 - Produce a strategy progress report.
 
 ### GameIT
-The aim of this latest module is to encourage employees to make the transition to digital responsibility by having fun through learning and taking part in interactive games.
+The aim of this latest module is to encourage employees to make the transition to sustainable IT by having fun through learning and taking part in interactive games.
 
 Main ambitions:
 - Fun and profitable challenges
-- Involve employees in the responsible digital strategy
+- Involve employees in the sustainable IT strategy
 - Provide over 50 actions to implement
 - Identify ambassadors
 
@@ -249,11 +249,11 @@ When I compare these solutions to the "niche players" in Green IT, which only me
 
 ![Verdikt conference photo](/img/sitf-2024-conference-verdikt.png)
 
-After a brief presentation of her company Verdikt, Helene would like to share three different pieces of feedback on the implementation of digital responsibility.
+After a brief presentation of her company Verdikt, Helene would like to share three different pieces of feedback on the implementation of sustainable IT.
 
 ### The CSR impact of IT in a large company
 
-This large company employs over 80,000 people in more than 100 business units around the world. The company is one of the leaders in digital responsibility and is looking to improve and manage its impact far beyond carbon. 
+This large company employs over 80,000 people in more than 100 business units around the world. The company is one of the leaders in sustainable IT and is looking to improve and manage its impact far beyond carbon. 
 
 In three months, across 20 business units, with over 200,000 pieces of IT equipment and millions of Cloud usages, the company's impact analysis showed a score of 51/100, which may not seem like much at first glance, but nevertheless places the company in the top 10% in terms of maturity, with less than 500 kg CO2 equivalent per employee.
 
