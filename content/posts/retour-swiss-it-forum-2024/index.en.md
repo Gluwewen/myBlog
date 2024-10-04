@@ -214,7 +214,7 @@ Delphine then asked the experts whether, in terms of generative AI, there were a
 ### A final word
 
 We must be vigilant to ensure that Artificial Intelligence does not supplant local digital sovereignty. Regulations are coming, and in particular the European IA Act, which will put pressure on companies in the way they manage this technology, with the possibility of very large penalties. This law is already scaring Apple, which has decided to block the use of the Artificial Intelligence embedded in the new iPhone 16 in Europe.
-In Switzerland, there are plans underway for nano-taxation on the use of generative AI, so that funds can be redirected to social insurance. It will be interesting to follow this subject closely!
+In Switzerland, there are plans underway for nano-taxation on the use of generative AI, so that funds can be redirected to social insurance. It will be interesting to follow this project closely!
 
 {{< alert >}}
 We must be vigilant to ensure that Artificial Intelligence does not diminish our fundamental rights!
@@ -314,8 +314,11 @@ The eco-design levers rely for two-thirds on the upstream phases of building a b
 5. **Marketing/Analytics:** 4% of the practices.
 
 CBTW recommends focusing efforts on the following points:
+- Sustainable software design
+- Electronic waste optimisation and management
+- Cloud infrastructure and data centers optimization
 
-### Eco-Responsible Software Design
+### Sustainable software design
 
 To achieve this, CBTW encourages:
 
@@ -333,7 +336,7 @@ For this, CBTW suggests:
 - **disposing of functional equipment** by donating it to Emmaus, Caritas, or even Videologic
 - **disposing of non-functional equipment** by dropping it off with Swico, who will collect it free of charge for at least 250 kg of equipment.
 
-### Cloud Infrastructure and Data Center Optimization
+### Cloud infrastructure and data centers optimization
 
 CBTW suggests:
 

@@ -182,8 +182,8 @@ Merci aux animateurs d’avoir relevé ce challenge de nous présenter la démar
 
 ### IA et environnement
 
-Sans introduction préalable Delphine s'est tournée vers Florian pour lui poser directement LA question qui brûlait les lèvres de tout le monde: pourquoi l'Intellligence Artificielle est-elle si polluante? Florian explique d'abord que l'IA a des besoins en matériel et en infrastructure. En effet la puissance de calcul nécessaire pour entraîner les machines sur les modèles mathématiques est juste phénoménale. Le besoin est tel que les grands consctructeurs comme NVidia innovent à une vitesse frénétique pour amener plus de puissance de calcul. Cela a un prix écologique: impact sur les matières premières qu'on extrait du sol, sur l'eau et les énergies fossiles qu'on utilise pour extraire et transformer tout cela en serveurs.
-Outre les machines, il faut aussi construire des data centers, qui ont eu aussi un impact non négligeable: ciment, eau pour les batiments, énergie et eau pour refroidir les serveurs etc... Entre 2022 et 2026 la demande énergétique pour l'IA va doubler, et se situer entre la consommation énergétique d'un pays comme la Suisse et la consommation énergétique de l'Allemagne! Amazon annonce une augmentation de 30% de sa consommation en eau, à cause de l'IA. Microsoft annonce 20%. 
+Sans introduction préalable Delphine s'est tournée vers Florian pour lui poser directement LA question qui brûlait les lèvres de tout le monde: pourquoi l'Intellligence Artificielle est-elle si polluante? Florian explique d'abord que l'IA a des besoins en matériel et en infrastructure. En effet la puissance de calcul nécessaire pour entraîner les machines sur les modèles mathématiques est juste phénoménale. Le besoin est tel que les grands constructeurs comme NVidia innovent à une vitesse frénétique pour amener plus de puissance de calcul. Cela a un prix écologique: impact sur les matières premières qu'on extrait du sol, sur l'eau et les énergies fossiles qu'on utilise pour extraire et transformer tout cela en serveurs.
+Outre les machines, il faut aussi construire des data centers, qui ont eu aussi un impact non négligeable: ciment, eau pour les batiments, énergie et eau pour refroidir les serveurs etc... Entre 2022 et 2026 la demande énergétique pour l'IA va doubler, et se situer entre la consommation énergétique d'un pays comme la Suisse et la consommation énergétique de l'Allemagne! Amazon annonce une augmentation de 30% de sa consommation en eau, à cause de l'IA. Microsoft en annonce 20%. 
 
 > L'Intelligence Artificielle est aussi un pari pour résoudre ou nous aider à résoudre nos problèmes environnementaux.
 >
@@ -203,9 +203,9 @@ Delphine questionne ensuite Laura sur les enjeux éthiques autour de l'Intellige
 - L'**alignement des valeurs** de l'IA avec les valeurs de l'entreprise
 - L'IA ne doit pas se faire **au détriment de la planète**
 - Les **biais des modèles mathématiques** et la non-diversité des données
-- Qui sont les formateurs de l'IA? l'IA doit **représenter une diversité de personnes**, ce qui implique qu'elle doit être formée par pleins de personnes différentes, par des données issues de plein de cultures différentes. 
+- Qui sont les formateurs de l'IA? L'IA doit **représenter une diversité de personnes**, ce qui implique qu'elle doit être formée par pleins de personnes différentes, par des données issues de plein de cultures différentes. 
 - Quels sont les utilisateurs de l'IA? Eviter que l'Intelligence Artificielle ne soit que **pour une élite seulement**.
-- Qui décide de ce qui est **juste et moral**? Les Intelligences Artificielles sont construites et formées en très grande majorité par les géants nord-américains. Leur culture de puritanisme a engendré des Intelligences Artificielles qui censurent les nouvelles érotiques. Est-ce que la culture européenne se retrouve là-dedans? Avons-nous eu le droit de choisir?
+- Qui décide de ce qui est **juste et moral**? Les Intelligences Artificielles sont construites et formées en très grande majorité par les géants nord-américains. Leur culture de puritanisme a engendré des Intelligences Artificielles qui censurent les nouvelles érotiques. Est-ce que la culture européenne se retrouve là-dedans? Avons-nous, européens, eu le droit de choisir?
 - L'Intelligence Artificielle et l'**Open-Source**: éviter la dépendance aux entreprises devenant plus puissantes que des états. 
 
 Delphine questionne ensuite les experts pour savoir si, au niveau des IA génératives, il y a des modèles plus éthiques, plus ouverts et plus transparents que les autres. Et incroyablement la réponse fut Facebook, ou plutôt Meta! Meta a construit son projet LLaMa en open-source, ouvert à tous. N'importe qui peut contribuer à le faire évoluter. Il est complètement gratuit.
@@ -213,7 +213,7 @@ Delphine questionne ensuite les experts pour savoir si, au niveau des IA génér
 ### Le mot de la fin
 
 Nous devons être vigilant à ce que l'Intelligence Artificielle ne supplante pas la souveraineté numérique locale. Les règlementations arrivent, et notamment la loi européenne "IA Act" qui va mettre sous pression les entreprises dans leur manière de gérer cette technologie avec la possibilité de générer de très grosses amendes. D'ailleurs cette loi fait déjà peur à Apple qui a décidé de bloquer en Europe l'utilisation de l'Intelligence Artificielle embarquée dans le nouvel iPhone 16.
-En suisse, il y a des projets en cours pour la nano taxation sur l'utilisation de l'IA génératives et ainsi rediriger les fonds vers les assurances sociales. Il sera intéressant de suivre de près ce sujet!
+En Suisse, il y a des projets en cours pour la nano taxation sur l'utilisation de l'IA générative et ainsi rediriger les fonds vers les assurances sociales. Il sera intéressant de suivre de près ce projet!
 
 {{< alert >}}
 Nous devons être vigilant à ce que l'Intelligence Artificielle ne diminue pas nos droits fondamentaux!
@@ -309,8 +309,7 @@ Lydia nous introduit les 115 leviers d'éco-conception, en les classant par ordr
 2. **Conception UX/UI:** 2ème levier avec déjà plus de pratiques à mettre en oeuvre (24%).
 
 {{< alert "comment" >}}
-**Commentaire personnel:**
-Les leviers d'éco-conception s'appuient pour les 2/3 sur les phases amont de la construction d'un acte métier (spécification, conception fonctionnelle, conception technique). Le 1/3 restant se répartit à hauteur de 2/3 pour l'hébergement et 1/3 pour l'implémentation. L'éco-conception n'est donc principalement pas une histoire de développeur comme on pourrait le croire!
+Les leviers d'éco-conception s'appuient pour les 2/3 sur les phases amont de la construction d'un acte métier (spécification, conception fonctionnelle, conception technique). Le 1/3 restant se répartit à hauteur de 2/3 pour l'hébergement et 1/3 pour l'implémentation. L'éco-conception n'est donc pas seulement une histoire de développeur comme on pourrait le croire!
 {{< /alert >}}
 
 3. **Implémentation technique:** 62% des pratiques aident à améliorer cette phase.
@@ -318,6 +317,9 @@ Les leviers d'éco-conception s'appuient pour les 2/3 sur les phases amont de la
 5. **Marketing/Analytics:** 4% des pratiques.
 
 CBTW préconise de faire des efforts sur les points suivants:
+- La conception éco-responsable des logiciels
+- L'optimisation et la gestion des déchets électroniques
+- L'optimisation de l'infrastructure Cloud et des data centers
 
 ### La conception éco-responsable des logiciels
 
