@@ -141,7 +141,7 @@ Ivan nous dévoile la mise à disposition d’une fonctionnalité majeure pour u
 La Fresque du Numérique est un atelier ludique et collaboratif d'une demi-journée avec une pédagogie similaire à celle de La Fresque du Climat. Le but de ce "serious game" est de sensibiliser et former les participant·es aux enjeux environnementaux du numérique.
 
 Céline a relevé le challenge de nous introduire l’atelier en 20 minutes, chronomètre en main!
-Après une brève explication d’où venait la fresque du numérique, son format et son but, Céline et XXX nous ont positionné autour d’une table pour amorcer la 1ere étape d’une fresque du numérique : la compréhension du sujet. Pour cela le groupe de participants devait lire à voix haute et intelligible sa ou ses cartes. Ensuite le groupe devait lier les cartes entre elles en fonction des liens de dépendances entre ces cartes. 
+Après une brève explication d’où venait la fresque du numérique, son format et son but, Céline et Laurent nous ont positionné autour d’une table pour amorcer la 1ere étape d’une fresque du numérique : la compréhension du sujet. Pour cela le groupe de participants devait lire à voix haute et intelligible sa ou ses cartes. Ensuite le groupe devait lier les cartes entre elles en fonction des liens de dépendances entre ces cartes. 
 
 Les cartes de départ étaient :
 - « Partager et apprendre », 
@@ -161,7 +161,7 @@ Chaque carte comportait une explication sur l’impact qu’elle a sur l’envir
 
 ![Atelier Fresque du numérique](/img/sitf-2024-atelier-fresque-du-numerique.png)
 
-Le temps étant très limité, Céline et XXX nous ont ensuite simplement expliqué rapidement les 3 autres étapes d’une fresque du numérique, à savoir:
+Le temps étant très limité, Céline et Laurent nous ont ensuite simplement expliqué rapidement les 3 autres étapes d’une fresque du numérique, à savoir:
 - La **phase de créativité** pendant laquelle les participants illustrent leurs propos et les messages qu’ils ont retenus
 - La **phase de restitution** où chaque groupe présente sa fresque aux autres groupes
 - La **phase de mise en action** qui permet de classer les actions selon deux axes: la facilité d’implémentation et l’importance de l’impact. Cette structuration des actions permet aux groupes d’identifier rapidement les quick-wins à implémenter (fort impact & grande facilité de mise en oeuvre)
