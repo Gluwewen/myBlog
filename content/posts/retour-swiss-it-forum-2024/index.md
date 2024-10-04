@@ -5,7 +5,7 @@ description: "Le Swiss IT forum(s) 2024 s'est tenu le 26 et 27 septembre à Pale
 categories: ["articles"]
 tags: [sustainableIT, GreenIT, resilio, mikujy, fresque du numérique, Intelligence Artificielle, Ethic By Design]
 date: 2024-10-04
-draft: true
+draft: false
 showauthor: false
 ---
 
