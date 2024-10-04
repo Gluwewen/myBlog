@@ -269,10 +269,10 @@ If you’d like to know more about me, feel free to check out [my LinkedIn profi
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
-                    <td>Certified « Ecodesign of digital services »</td>  
+                    <td><a target="_blank" href="https://certificat.greenit.fr/certificats/2024.05.29-VL135-TGG3-ECO25">Certified « Ecodesign of digital services »</a></td>  
                 </tr>
                 <tr>
-                    <td>Certified « Green IT & digital sustainability: state of the art »</td>
+                    <td><a target="_blank" href="https://certificat.greenit.fr/certificats/2024.01.17-VL135-HS67-GRI25">Certified « Sustainable IT »</a></td>
                 </tr>
             </table>
         </td>
@@ -282,13 +282,13 @@ If you’d like to know more about me, feel free to check out [my LinkedIn profi
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
-                    <td>Certified Professional Product Owner I</td>  
+                    <td><a target="_blank" href="https://www.credly.com/badges/6f31bdcc-66d3-446c-ad76-c91e175fea9e/public_url">Certified Professional Product Owner I</a></td>  
                 </tr>
                 <tr>
-                    <td>Certified Professional Scrum Master II</td>
+                    <td><a target="_blank" href="https://www.credly.com/badges/d1846593-8606-4d30-b19f-c16bd84656c1/public_url">Certified Professional Scrum Master II</a></td>
                 </tr>
                 <tr>
-                    <td>Certified Professional Scrum Master I</td>
+                    <td><a target="_blank" href="https://www.credly.com/badges/cd5cab28-2a3b-4683-8d6e-a56a873fdc58/public_url">Certified Professional Scrum Master I</a></td>
                 </tr>
             </table>
         </td>

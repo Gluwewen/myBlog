@@ -9,11 +9,11 @@
     <managingEditor>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</managingEditor>
     <webMaster>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</webMaster>
     <copyright>© 2024 Vincent Loiseau</copyright>
-    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artificial Intelligence</title>
       <link>http://localhost:1313/en/tags/artificial-intelligence/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/tags/artificial-intelligence/</guid>
       <description></description>
@@ -21,9 +21,19 @@
     </item>
     
     <item>
+      <title>Digital Collage</title>
+      <link>http://localhost:1313/en/tags/digital-collage/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/en/tags/digital-collage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Ethic by Design</title>
       <link>http://localhost:1313/en/tags/ethic-by-design/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/tags/ethic-by-design/</guid>
       <description></description>
@@ -31,19 +41,9 @@
     </item>
     
     <item>
-      <title>Fresque Du Numérique</title>
-      <link>http://localhost:1313/en/tags/fresque-du-num%C3%A9rique/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
-      <guid>http://localhost:1313/en/tags/fresque-du-num%C3%A9rique/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>GreenIT</title>
       <link>http://localhost:1313/en/tags/greenit/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/tags/greenit/</guid>
       <description></description>
@@ -53,7 +53,7 @@
     <item>
       <title>Mikujy</title>
       <link>http://localhost:1313/en/tags/mikujy/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/tags/mikujy/</guid>
       <description></description>
@@ -63,7 +63,7 @@
     <item>
       <title>Resilio</title>
       <link>http://localhost:1313/en/tags/resilio/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/tags/resilio/</guid>
       <description></description>
@@ -73,7 +73,7 @@
     <item>
       <title>SustainableIT</title>
       <link>http://localhost:1313/en/tags/sustainableit/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/en/tags/sustainableit/</guid>
       <description></description>
