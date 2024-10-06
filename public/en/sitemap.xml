@@ -67,22 +67,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/posts/retour-swiss-it-forum-2024/</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="http://localhost:1313/posts/retour-swiss-it-forum-2024/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/posts/retour-swiss-it-forum-2024/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
