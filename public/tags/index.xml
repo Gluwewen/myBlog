@@ -11,6 +11,26 @@
     <copyright>© 2024 Vincent Loiseau</copyright>
     <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CBTW</title>
+      <link>http://localhost:1313/tags/cbtw/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/tags/cbtw/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CircularIT</title>
+      <link>http://localhost:1313/tags/circularit/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/tags/circularit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Ethic by Design</title>
       <link>http://localhost:1313/tags/ethic-by-design/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
@@ -71,11 +91,31 @@
     </item>
     
     <item>
+      <title>Resilio-Tech</title>
+      <link>http://localhost:1313/tags/resilio-tech/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/tags/resilio-tech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>SustainableIT</title>
       <link>http://localhost:1313/tags/sustainableit/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
       <guid>http://localhost:1313/tags/sustainableit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Verdikt</title>
+      <link>http://localhost:1313/tags/verdikt/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/tags/verdikt/</guid>
       <description></description>
       
     </item>

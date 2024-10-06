@@ -11,13 +11,73 @@
     <copyright>© 2024 Vincent Loiseau</copyright>
     <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Feedback on Swiss IT Forum(s) 2024</title>
-      <link>http://localhost:1313/en/posts/retour-swiss-it-forum-2024/</link>
+      <title>Artificial intelligence, environment and ethics</title>
+      <link>http://localhost:1313/en/posts/sitf2024-environnement-ethique-ia-table-ronde/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
-      <guid>http://localhost:1313/en/posts/retour-swiss-it-forum-2024/</guid>
-      <description>Feedback on the sustainable IT conferences I attended at Swiss IT forum(s) 2024, held on 26 and 27 September at Palexpo (Geneva)</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/retour-swiss-it-forum-2024/featured.jpg" />
+      <guid>http://localhost:1313/en/posts/sitf2024-environnement-ethique-ia-table-ronde/</guid>
+      <description>Round table on integrating intelligence into your business while respecting your own environmental and ethical values at the Swiss IT forum(s) 2024 held on 26 and 27 September at Palexpo (Geneva)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sitf2024-environnement-ethique-ia-table-ronde/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>CircularIT demo - MIKUJY</title>
+      <link>http://localhost:1313/en/posts/sitf2024-circularit-demo/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/en/posts/sitf2024-circularit-demo/</guid>
+      <description>Demonstration of CircularIT by Ivan Mariblanca Flinch at the Swiss IT forum(s) 2024 held on 26 and 27 September at Palexpo (Geneva)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sitf2024-circularit-demo/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Decarbonising your value chain</title>
+      <link>http://localhost:1313/en/posts/sitf2024-decarbonising-your-value-chain-table-ronde/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/en/posts/sitf2024-decarbonising-your-value-chain-table-ronde/</guid>
+      <description>Round table on decarbonising your value chain: what digital solutions can you use to measure, reduce and facilitate your extra-financial reporting? at the Swiss IT forum(s) 2024 held on 26 and 27 September at Palexpo (Geneva)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sitf2024-decarbonising-your-value-chain-table-ronde/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Digital collage workshop - Resilio</title>
+      <link>http://localhost:1313/en/posts/sitf2024-fresque-du-numerique/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/en/posts/sitf2024-fresque-du-numerique/</guid>
+      <description>Digital collage workshop by Celine Carle-Faye at the Swiss IT forum(s) 2024 held on 26 and 27 September at Palexpo (Geneva)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sitf2024-fresque-du-numerique/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Reconciling Innovation and Sustainability</title>
+      <link>http://localhost:1313/en/posts/sitf2024-concilier-innovation-durabilite-conference/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/en/posts/sitf2024-concilier-innovation-durabilite-conference/</guid>
+      <description>Conference by Collaboration Betters The World on reducing the environmental impact of your projects: what strategies can you use to reconcile innovation and sustainability? at the Swiss IT forum(s) 2024 held on 26 and 27 September at Palexpo (Geneva)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sitf2024-concilier-innovation-durabilite-conference/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Resilio tech demonstration - Resilio</title>
+      <link>http://localhost:1313/en/posts/sitf2024-resilio-tech-demo/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/en/posts/sitf2024-resilio-tech-demo/</guid>
+      <description>Demonstration of Resilio Tech by Amael Parreaux-Ey at the Swiss IT forum(s) 2024 held on 26 and 27 September at Palexpo (Geneva)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sitf2024-resilio-tech-demo/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>The CSR impact of digital in practice</title>
+      <link>http://localhost:1313/en/posts/sitf2024-impact-rse-du-numerique-en-pratique-conference/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/en/posts/sitf2024-impact-rse-du-numerique-en-pratique-conference/</guid>
+      <description>Conference by Verdikt on the CSR impact of digital in practice at the Swiss IT forum(s) 2024 held on 26 and 27 September at Palexpo (Geneva)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sitf2024-impact-rse-du-numerique-en-pratique-conference/featured.jpg" />
     </item>
     
     <item>

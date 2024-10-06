@@ -5,7 +5,7 @@ description: "The Swiss IT forum(s) 2024 was held on 26 and 27 September at Pale
 categories: ["posts"]
 tags: [sustainableIT, GreenIT, resilio, mikujy, Digital collage, Artificial Intelligence, Ethic By Design]
 date: 2024-10-04
-draft: false
+draft: true
 showauthor: false
 ---
 
@@ -26,7 +26,7 @@ In the rest of the article, I'll be sharing a summary of the main messages from 
 ## Resilio - Resilio Tech
 
 *Resilio Tech demonstration by [Amael Parreaux-Ey](https://www.linkedin.com/in/amael-parreaux-ey/) (Resilio)*
-*Resilio](https://resilio-solutions.com/fr/) is an EPFL spinoff, strongly inspired by the [GreenIT.fr](https://collectif.greenit.fr) collective.*
+*[Resilio](https://resilio-solutions.com/fr/) is an EPFL spinoff, strongly inspired by the [GreenIT.fr](https://collectif.greenit.fr) collective.*
 
 ![Photo Demo Resilio](/img/sitf-2024-demo-resilio.png)
 
