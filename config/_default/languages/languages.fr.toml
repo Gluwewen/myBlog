@@ -12,7 +12,7 @@ title = "Sustainable Mindset"
   logo = "img/logo-sustainable-it-mind.png"
   secondaryLogo = "img/logo-sustainable-it-mind.png"
   description = "Mon blog dédié au développement durable de produits digitaux"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "Sustainable mindset © 2024 par Vincent Loiseau est soumis à la licence [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/?ref=chooser-v1)"
 
  [params.author]
    name = "Vincent Loiseau"
