@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovation on Sustainable Mindset</title>
+    <link>http://localhost:1313/en/tags/innovation/</link>
+    <description>Recent content in Innovation on Sustainable Mindset</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</managingEditor>
+    <webMaster>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</webMaster>
+    <copyright>Sustainable mindset © 2024 by Vincent Loiseau is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/?ref=chooser-v1)</copyright>
+    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/innovation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Environmental impact of social media</title>
+      <link>http://localhost:1313/en/posts/impact-environnemental-reseaux-sociaux/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/en/posts/impact-environnemental-reseaux-sociaux/</guid>
+      <description>According to the We Are Social 2024 report, 78% of French people regularly use social media, with an average of 6 different platforms per month. However, some applications like TikTok break records in terms of time spent (38h38/month) and&amp;hellip; environmental impact! Discover the full analysis of these digital trends in this article.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/impact-environnemental-reseaux-sociaux/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
