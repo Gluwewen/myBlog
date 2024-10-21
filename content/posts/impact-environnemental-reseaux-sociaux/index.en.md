@@ -12,7 +12,7 @@ showauthor: false
 #   - nunocoracao
 ---
 
-![social media image](/img/impact-environnemental-reseaux-sociaux.png)
+![social media image](/img/impact-environnemental-reseaux-sociaux-banniere.png)
 
 ## Social media usage among the French
 

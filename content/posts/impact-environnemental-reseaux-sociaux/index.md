@@ -12,7 +12,7 @@ showauthor: false
 #   - nunocoracao
 ---
 
-![Image Réseaux Sociaux](/img/impact-environnemental-reseaux-sociaux.png)
+![Image Réseaux Sociaux](/img/impact-environnemental-reseaux-sociaux-banniere.png)
 
 ## Utilisation des réseaux sociaux par les Français.
 
