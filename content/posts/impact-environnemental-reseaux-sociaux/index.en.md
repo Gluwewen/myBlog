@@ -6,7 +6,7 @@ categories: ["posts"]
 tags: ["digital2024", "environnemental impact", "social media", "innovation"]
 # externalUrl: "https://nunocoracao.com/posts/202310-blowfish-tutorial/"
 date: 2024-10-21
-draft: true
+draft: false
 showauthor: false
 # authors:
 #   - nunocoracao
