@@ -20,7 +20,7 @@ D'après le [rapport France 2024 "We are social"](https://wearesocial.com/fr/blo
 
 ![Graphique sur les réseaux sociaux les plus utilisés en France en 2024](/img/we-are-social-most-used-platforms-2024.png)
 
-Bien que de plus en plus connectés et utilisateurs de réseaux sociaux, les français ont moins passé de temps sur ces plateformes que l'année dernière avec 1h48 par jour soit 7 minutes de moins. Malheureusement, cela cache beaucoup de disparités. La plateforme TikTok bat tous les records cette année avec un temps moyen passé sur l'application de 38h38 par ses utilisateurs actifs, soit plus de 12% d'augmentation! Quand on connaît l'algorithme qui se cache derrière cette application et la proportion d'adolescents de 13-17 ans (28%) qui utilisent cette plateforme, cela fait peur!
+Bien que de plus en plus connectés et utilisateurs de réseaux sociaux, les français ont moins passé de temps sur ces plateformes que l'année dernière avec 1h48 par jour soit 7 minutes de moins. Malheureusement, cela cache beaucoup de disparités. La plateforme TikTok bat tous les records cette année avec un temps moyen passé par mois sur l'application de 38h38 par ses utilisateurs actifs, soit plus de 12% d'augmentation! Quand on connaît l'algorithme qui se cache derrière cette application et la proportion d'adolescents de 13-17 ans (28%) qui utilisent cette plateforme, cela fait peur!
 
 ![Graphique sur le temps passé sur les réseaux sociaux en France en 2024](/img/we-are-social-time-spent-2024.png)
 

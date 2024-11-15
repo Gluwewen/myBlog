@@ -20,7 +20,7 @@ According to the France 2024 "We Are Social" report, French people are more conn
 
 ![Graph showing the most popular social networks in France in 2024](/img/we-are-social-most-used-platforms-2024.png)
 
-Although more connected and active on social media, French people spent less time on these platforms than last year, with an average of 1h48 per day, which is 7 minutes less. Unfortunately, this hides a lot of disparities. TikTok broke all records this year with an average time spent on the app by active users of 38h38, an increase of more than 12%! Knowing the algorithm behind this app and the proportion of 13-17-year-olds (28%) using it, this is concerning!
+Although more connected and active on social media, French people spent less time on these platforms than last year, with an average of 1h48 per day, which is 7 minutes less. Unfortunately, this hides a lot of disparities. The TikTok platform is breaking all records this year, with active users spending an average of 38 hours a month on the app, an increase of over 12%! Knowing the algorithm behind this app and the proportion of 13-17-year-olds (28%) using it, this is concerning!
 
 ![Graph of time spent on social networks in France in 2024](/img/we-are-social-time-spent-2024.png)
 
